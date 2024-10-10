@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.0 (2024-10-02)
+
+- Added search functionality
+- Implemented lazy loading for images
+
 ## 1.2.0 (2024-09-25)
 
 - Enhanced user profile page with additional details
