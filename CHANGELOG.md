@@ -1,3 +1,6 @@
 "# Changelog"  
 "## [1.0.0] - Initial Release"  
 "- Initial project structure with index, styles, and scripts" 
+"## [1.1.0] - Upcoming release" 
+"- Added navigation bar" 
+"- Refactored CSS for responsiveness" 
