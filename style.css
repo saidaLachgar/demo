@@ -3,3 +3,4 @@
 ".profile-bio { color: gray; }" 
 ".dark { background-color: #121212; color: white; }" 
 "button { padding: 10px 20px; border-radius: 5px; }" 
+"@media (max-width: 600px) { body { font-size: 14px; } }" 
