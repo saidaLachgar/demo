@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.1 (2024-10-06)
+
+- Fixed critical IE bug in navigation bar
+
 ## 1.4.0 (2024-10-05)
 
 - Fixed case sensitivity bug in search
